@@ -96,4 +96,4 @@ LibraryManagement.exe
 
 ## 👨‍💻 Author
 
-**Omkkar Srivastava**
+**Omkar Srivastava**
